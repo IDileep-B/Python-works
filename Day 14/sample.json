@@ -1,0 +1,15 @@
+
+[
+  {
+    "sku": "P1001",
+    "name": "Wireless Mouse",
+    "price": 799.0,
+    "tags": ["electronics", "accessory"]
+  },
+  {
+    "sku": "P1002",
+    "name": "Mechanical Keyboard",
+    "price": 2499.0,
+    "tags": ["electronics", "keyboard"]
+  }
+]
